@@ -1,0 +1,478 @@
+[
+  {
+    "slug": "ai",
+    "name": "Anguilla"
+  },
+  {
+    "slug": "ag",
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "slug": "ar",
+    "name": "Argentina"
+  },
+  {
+    "slug": "am",
+    "name": "Armenia"
+  },
+  {
+    "slug": "au",
+    "name": "Australia"
+  },
+  {
+    "slug": "at",
+    "name": "Austria"
+  },
+  {
+    "slug": "az",
+    "name": "Azerbaijan"
+  },
+  {
+    "slug": "bh",
+    "name": "Bahrain"
+  },
+  {
+    "slug": "bb",
+    "name": "Barbados"
+  },
+  {
+    "slug": "by",
+    "name": "Belarus"
+  },
+  {
+    "slug": "be",
+    "name": "Belgium"
+  },
+  {
+    "slug": "bz",
+    "name": "Belize"
+  },
+  {
+    "slug": "bm",
+    "name": "Bermuda"
+  },
+  {
+    "slug": "bo",
+    "name": "Bolivia"
+  },
+  {
+    "slug": "bw",
+    "name": "Botswana"
+  },
+  {
+    "slug": "br",
+    "name": "Brazil"
+  },
+  {
+    "slug": "vg",
+    "name": "British Virgin Islands"
+  },
+  {
+    "slug": "bn",
+    "name": "Brunei Darussalam"
+  },
+  {
+    "slug": "bg",
+    "name": "Bulgaria"
+  },
+  {
+    "slug": "bf",
+    "name": "Burkina Faso"
+  },
+  {
+    "slug": "kh",
+    "name": "Cambodia"
+  },
+  {
+    "slug": "ca",
+    "name": "Canada"
+  },
+  {
+    "slug": "cv",
+    "name": "Cape Verde"
+  },
+  {
+    "slug": "ky",
+    "name": "Cayman Islands"
+  },
+  {
+    "slug": "cl",
+    "name": "Chile"
+  },
+  {
+    "slug": "co",
+    "name": "Colombia"
+  },
+  {
+    "slug": "cr",
+    "name": "Costa Rica"
+  },
+  {
+    "slug": "cy",
+    "name": "Cyprus"
+  },
+  {
+    "slug": "cz",
+    "name": "Czech Republic"
+  },
+  {
+    "slug": "dk",
+    "name": "Denmark"
+  },
+  {
+    "slug": "dm",
+    "name": "Dominica"
+  },
+  {
+    "slug": "do",
+    "name": "Dominican Republic"
+  },
+  {
+    "slug": "ec",
+    "name": "Ecuador"
+  },
+  {
+    "slug": "eg",
+    "name": "Egypt"
+  },
+  {
+    "slug": "sv",
+    "name": "El Salvador"
+  },
+  {
+    "slug": "ee",
+    "name": "Estonia"
+  },
+  {
+    "slug": "fj",
+    "name": "Fiji"
+  },
+  {
+    "slug": "fi",
+    "name": "Finland"
+  },
+  {
+    "slug": "fr",
+    "name": "France"
+  },
+  {
+    "slug": "gm",
+    "name": "Gambia"
+  },
+  {
+    "slug": "de",
+    "name": "Germany"
+  },
+  {
+    "slug": "gh",
+    "name": "Ghana"
+  },
+  {
+    "slug": "gr",
+    "name": "Greece"
+  },
+  {
+    "slug": "gd",
+    "name": "Grenada"
+  },
+  {
+    "slug": "gt",
+    "name": "Guatemala"
+  },
+  {
+    "slug": "gw",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "slug": "hn",
+    "name": "Honduras"
+  },
+  {
+    "slug": "hk",
+    "name": "Hong Kong"
+  },
+  {
+    "slug": "hu",
+    "name": "Hungary"
+  },
+  {
+    "slug": "in",
+    "name": "India"
+  },
+  {
+    "slug": "id",
+    "name": "Indonesia"
+  },
+  {
+    "slug": "ie",
+    "name": "Ireland"
+  },
+  {
+    "slug": "il",
+    "name": "Israel"
+  },
+  {
+    "slug": "it",
+    "name": "Italy"
+  },
+  {
+    "slug": "jp",
+    "name": "Japan"
+  },
+  {
+    "slug": "jo",
+    "name": "Jordan"
+  },
+  {
+    "slug": "kz",
+    "name": "Kazakhstan"
+  },
+  {
+    "slug": "ke",
+    "name": "Kenya"
+  },
+  {
+    "slug": "kg",
+    "name": "Kyrgyzstan"
+  },
+  {
+    "slug": "la",
+    "name": "Laos"
+  },
+  {
+    "slug": "lv",
+    "name": "Latvia"
+  },
+  {
+    "slug": "lb",
+    "name": "Lebanon"
+  },
+  {
+    "slug": "lt",
+    "name": "Lithuania"
+  },
+  {
+    "slug": "lu",
+    "name": "Luxembourg"
+  },
+  {
+    "slug": "mo",
+    "name": "Macau"
+  },
+  {
+    "slug": "my",
+    "name": "Malaysia"
+  },
+  {
+    "slug": "mt",
+    "name": "Malta"
+  },
+  {
+    "slug": "mu",
+    "name": "Mauritius"
+  },
+  {
+    "slug": "mx",
+    "name": "Mexico"
+  },
+  {
+    "slug": "fm",
+    "name": "Micronesia"
+  },
+  {
+    "slug": "md",
+    "name": "Moldova"
+  },
+  {
+    "slug": "mn",
+    "name": "Mongolia"
+  },
+  {
+    "slug": "mz",
+    "name": "Mozambique"
+  },
+  {
+    "slug": "na",
+    "name": "Namibia"
+  },
+  {
+    "slug": "np",
+    "name": "Nepal"
+  },
+  {
+    "slug": "nl",
+    "name": "Netherlands"
+  },
+  {
+    "slug": "nz",
+    "name": "New Zealand"
+  },
+  {
+    "slug": "ni",
+    "name": "Nicaragua"
+  },
+  {
+    "slug": "ne",
+    "name": "Niger"
+  },
+  {
+    "slug": "ng",
+    "name": "Nigeria"
+  },
+  {
+    "slug": "no",
+    "name": "Norway"
+  },
+  {
+    "slug": "om",
+    "name": "Oman"
+  },
+  {
+    "slug": "pa",
+    "name": "Panama"
+  },
+  {
+    "slug": "pg",
+    "name": "Papua New Guinea"
+  },
+  {
+    "slug": "py",
+    "name": "Paraguay"
+  },
+  {
+    "slug": "pe",
+    "name": "Peru"
+  },
+  {
+    "slug": "ph",
+    "name": "Philippines"
+  },
+  {
+    "slug": "pl",
+    "name": "Poland"
+  },
+  {
+    "slug": "pt",
+    "name": "Portugal"
+  },
+  {
+    "slug": "qa",
+    "name": "Qatar"
+  },
+  {
+    "slug": "ro",
+    "name": "Romania"
+  },
+  {
+    "slug": "ru",
+    "name": "Russia"
+  },
+  {
+    "slug": "kn",
+    "name": "Saint Kitts and Nevis"
+  },
+  {
+    "slug": "sa",
+    "name": "Saudi Arabia"
+  },
+  {
+    "slug": "sg",
+    "name": "Singapore"
+  },
+  {
+    "slug": "sk",
+    "name": "Slovakia"
+  },
+  {
+    "slug": "si",
+    "name": "Slovenia"
+  },
+  {
+    "slug": "za",
+    "name": "South Africa"
+  },
+  {
+    "slug": "es",
+    "name": "Spain"
+  },
+  {
+    "slug": "lk",
+    "name": "Sri Lanka"
+  },
+  {
+    "slug": "sz",
+    "name": "Swaziland"
+  },
+  {
+    "slug": "se",
+    "name": "Sweden"
+  },
+  {
+    "slug": "ch",
+    "name": "Switzerland"
+  },
+  {
+    "slug": "tw",
+    "name": "Taiwan"
+  },
+  {
+    "slug": "tj",
+    "name": "Tajikistan"
+  },
+  {
+    "slug": "th",
+    "name": "Thailand"
+  },
+  {
+    "slug": "bs",
+    "name": "The Bahamas"
+  },
+  {
+    "slug": "tt",
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "slug": "tr",
+    "name": "Turkey"
+  },
+  {
+    "slug": "tm",
+    "name": "Turkmenistan"
+  },
+  {
+    "slug": "ug",
+    "name": "Uganda"
+  },
+  {
+    "slug": "ua",
+    "name": "Ukraine"
+  },
+  {
+    "slug": "ae",
+    "name": "United Arab Emirates"
+  },
+  {
+    "slug": "uk",
+    "name": "United Kingdom"
+  },
+  {
+    "slug": "us",
+    "name": "United States"
+  },
+  {
+    "slug": "uz",
+    "name": "Uzbekistan"
+  },
+  {
+    "slug": "ve",
+    "name": "Venezuela"
+  },
+  {
+    "slug": "vn",
+    "name": "Vietnam"
+  },
+  {
+    "slug": "zw",
+    "name": "Zimbabwe"
+  }
+]
